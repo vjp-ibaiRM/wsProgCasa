@@ -43,7 +43,7 @@ public class Tema3Ejercicio9 {
             aux=num3;
             num3=num4;
             num4=aux;
-        }
+        }//---------------------------------------------------------------
         if (num1>num2) {//los volvemos a comparar en la segunda vuelta
             aux=num1;//y los seguimos intercambiando pa que se ordenen
             num1=num2;
@@ -53,7 +53,7 @@ public class Tema3Ejercicio9 {
             aux=num2;
             num2=num3;
             num3=aux;
-        }
+        }//------------------------------------------------------------------
         if (num1>num2) {//y con la tercera vuelta deberían estar ordenados
             aux=num1;//ya tienen que estar cada uno en su sitio
             num1=num2;
